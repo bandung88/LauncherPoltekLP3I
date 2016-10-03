@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Politeknik LP3I</string>
+    <string name="title_app">Judul Aplikasi</string>
+    <string name="welcome_msg">Selamat Datang di Application Integration System Politeknik LP3I Jakarta</string>
+    <string name="no_title"></string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_web_browser">WebBrowser</string>
+</resources>

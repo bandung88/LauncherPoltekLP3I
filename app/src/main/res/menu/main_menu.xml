@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/act_mhs"
+        app:showAsAction="never"
+        android:title="Smart Student">
+    </item>
+    <item
+        android:id="@+id/act_dosen"
+        app:showAsAction="never"
+        android:title="Smart Lecturer">
+    </item>
+    <item
+        android:id="@+id/act_close"
+        android:icon="@mipmap/ic_menu_exit"
+        android:title="Exit">
+    </item>
+</menu>
